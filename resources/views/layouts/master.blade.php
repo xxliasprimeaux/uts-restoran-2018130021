@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>@yield('title', 'MyCompany') | MyCompany</title>
+    <title>@yield('title', 'MaisonDeChampignon') | Maison de Champignon</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -93,9 +93,9 @@
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Contact</h4>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Bandung, Indonesia</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+62 9398 2082 4562</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@maisondechampignon.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
@@ -106,13 +106,13 @@
                     <div class="col-lg-3 col-md-6">
                         <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Opening</h4>
                         <h5 class="text-light fw-normal">Monday - Saturday</h5>
-                        <p>09AM - 09PM</p>
+                        <p>09.00 - 21.00</p>
                         <h5 class="text-light fw-normal">Sunday</h5>
-                        <p>10AM - 08PM</p>
+                        <p>10.00 - 20.00</p>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Newsletter</h4>
-                        <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                        <p>Sign up for our newsletter!</p>
                         <div class="position-relative mx-auto" style="max-width: 400px;">
                             <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                             <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
@@ -124,11 +124,7 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved.
-
-							<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-							Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a><br><br>
-                            Distributed By <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
+                            &copy; <a class="border-bottom" href="#">maisondechampignon.com</a>, All Right Reserved.
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">

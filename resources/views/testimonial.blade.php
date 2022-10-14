@@ -19,50 +19,50 @@
     <div class="container">
         <div class="text-center">
             <h5 class="section-title ff-secondary text-center text-primary fw-normal">Testimonial</h5>
-            <h1 class="mb-5">Our Clients Say!!!</h1>
+            <h1 class="mb-5">Our Clients Said</h1>
         </div>
         <div class="owl-carousel testimonial-carousel">
             <div class="testimonial-item bg-transparent border rounded p-4">
                 <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <p>A LITERAL HEAVEN for mushroom lovers. The place is nice and cozy, its very comfortable to study there.</p>
                 <div class="d-flex align-items-center">
                     <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-1.jpg" style="width: 50px; height: 50px;">
                     <div class="ps-3">
-                        <h5 class="mb-1">Client Name</h5>
-                        <small>Profession</small>
+                        <h5 class="mb-1">Sarah Sulastri</h5>
+                        <small>Student</small>
                     </div>
                 </div>
             </div>
             <div class="testimonial-item bg-transparent border rounded p-4">
                 <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <p>Great service, affordable prices. Loved the raw mushrooms btw, so very mushroomy. Keep it up!!</p>
                 <div class="d-flex align-items-center">
                     <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-2.jpg" style="width: 50px; height: 50px;">
                     <div class="ps-3">
-                        <h5 class="mb-1">Client Name</h5>
-                        <small>Profession</small>
+                        <h5 class="mb-1">Bartolomeus K.</h5>
+                        <small>Designer</small>
                     </div>
                 </div>
             </div>
             <div class="testimonial-item bg-transparent border rounded p-4">
                 <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <p>Tempatnya nyaman banget, makanannya enak. Trus tempatnya strategis juga. Maap gabisa bahasa inggris hehe.</p>
                 <div class="d-flex align-items-center">
                     <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-3.jpg" style="width: 50px; height: 50px;">
                     <div class="ps-3">
-                        <h5 class="mb-1">Client Name</h5>
-                        <small>Profession</small>
+                        <h5 class="mb-1">Juan R.</h5>
+                        <small>Engineer</small>
                     </div>
                 </div>
             </div>
             <div class="testimonial-item bg-transparent border rounded p-4">
                 <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                <p>So in love with Maison de Champignon. When they said they have "24/7 service" they didn't lie.</p>
                 <div class="d-flex align-items-center">
                     <img class="img-fluid flex-shrink-0 rounded-circle" src="img/testimonial-4.jpg" style="width: 50px; height: 50px;">
                     <div class="ps-3">
-                        <h5 class="mb-1">Client Name</h5>
-                        <small>Profession</small>
+                        <h5 class="mb-1">Mina S.</h5>
+                        <small>Businesswoman</small>
                     </div>
                 </div>
             </div>

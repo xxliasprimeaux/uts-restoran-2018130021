@@ -27,8 +27,8 @@
                     <div class="rounded-circle overflow-hidden m-4">
                         <img class="img-fluid" src="img/team-1.jpg" alt="">
                     </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
+                    <h5 class="mb-0">Gordong Ramsey</h5>
+                    <small>Chef</small>
                     <div class="d-flex justify-content-center mt-3">
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -41,8 +41,8 @@
                     <div class="rounded-circle overflow-hidden m-4">
                         <img class="img-fluid" src="img/team-2.jpg" alt="">
                     </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
+                    <h5 class="mb-0">The Rock</h5>
+                    <small>Chef</small>
                     <div class="d-flex justify-content-center mt-3">
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -55,8 +55,8 @@
                     <div class="rounded-circle overflow-hidden m-4">
                         <img class="img-fluid" src="img/team-3.jpg" alt="">
                     </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
+                    <h5 class="mb-0">Ty Burrel</h5>
+                    <small>Chef</small>
                     <div class="d-flex justify-content-center mt-3">
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -69,8 +69,8 @@
                     <div class="rounded-circle overflow-hidden m-4">
                         <img class="img-fluid" src="img/team-4.jpg" alt="">
                     </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
+                    <h5 class="mb-0">Breadley Cooper</h5>
+                    <small>Chef</small>
                     <div class="d-flex justify-content-center mt-3">
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
@@ -78,62 +78,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="team-item text-center rounded overflow-hidden">
-                    <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="img/team-2.jpg" alt="">
-                    </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
-                    <div class="d-flex justify-content-center mt-3">
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                <div class="team-item text-center rounded overflow-hidden">
-                    <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="img/team-3.jpg" alt="">
-                    </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
-                    <div class="d-flex justify-content-center mt-3">
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                <div class="team-item text-center rounded overflow-hidden">
-                    <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="img/team-4.jpg" alt="">
-                    </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
-                    <div class="d-flex justify-content-center mt-3">
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                <div class="team-item text-center rounded overflow-hidden">
-                    <div class="rounded-circle overflow-hidden m-4">
-                        <img class="img-fluid" src="img/team-1.jpg" alt="">
-                    </div>
-                    <h5 class="mb-0">Full Name</h5>
-                    <small>Designation</small>
-                    <div class="d-flex justify-content-center mt-3">
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-            </div>
+
         </div>
     </div>
 </div>
